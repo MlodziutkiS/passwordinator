@@ -4,4 +4,5 @@ A simple pseudo random password generator using tkinter and pyperclip
   plz help lol
 </h2>
 <h3> Pretty sure its got something with the gui that makes it slow</h3>
-maybe its the tkinter used without class(something i think is standart?)
+maybe its the tkinter used without class(something i think is standard?)
+Update: now i think its more like ram stuff
