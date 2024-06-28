@@ -52,6 +52,4 @@ for x in range(int(count)):
 
 pyperclip.copy(str(output))
 
-print(list1)
-
 print("time",time.time()-s)
