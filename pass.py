@@ -6,7 +6,7 @@ import pyperclip
 s=time.time()
 
 def noobie():
-        print("Syntax should be:",sys.argv[0]," (use upper case) (use numbers) (use special chars)")
+        print("Syntax should be:",sys.argv[0]," (use upper case) (use numbers) (use special chars) (choose length)")
         print("Arguments are passed to bool()")
 
 def makelist(ual,num,spec):
